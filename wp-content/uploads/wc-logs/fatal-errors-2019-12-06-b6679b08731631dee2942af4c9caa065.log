@@ -1,0 +1,22 @@
+2019-12-06T00:30:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\SweetWorld\wp-admin\includes\class-wp-site-icon.php en la línea 15
+
+2019-12-06T02:11:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\SweetWorld\wp-admin\includes\file.php en la línea 16
+
+2019-12-06T02:12:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\SweetWorld\wp-content\plugins\woocommerce-admin\src\API\DataDownloadIPs.php en la línea 12
+
+2019-12-06T02:13:53+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='C:\xampp\php\PEAR') en C:\xampp\htdocs\SweetWorld\wp-content\themes\storefront-child\functions.php en la línea 27
+
+2019-12-06T02:14:00+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='C:\xampp\php\PEAR') en C:\xampp\htdocs\SweetWorld\wp-content\themes\storefront-child\functions.php en la línea 27
+
+2019-12-06T02:14:12+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='C:\xampp\php\PEAR') en C:\xampp\htdocs\SweetWorld\wp-content\themes\storefront-child\functions.php en la línea 27
+
+2019-12-06T02:14:16+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='C:\xampp\php\PEAR') en C:\xampp\htdocs\SweetWorld\wp-content\themes\storefront-child\functions.php en la línea 27
+
+2019-12-06T02:14:19+00:00 CRITICAL require(): Failed opening required 'inc/class-storefront.php' (include_path='C:\xampp\php\PEAR') en C:\xampp\htdocs\SweetWorld\wp-content\themes\storefront-child\functions.php en la línea 27
+
+2019-12-06T02:24:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\SweetWorld\wp-admin\includes\class-wp-filesystem-direct.php en la línea 81
+
+2019-12-06T02:27:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\SweetWorld\wp-admin\includes\media.php en la línea 16
+
+2019-12-06T23:08:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\SweetWorld\wp-content\plugins\woocommerce-gateway-paypal-express-checkout\includes\abstracts\abstract-wc-gateway-ppec-paypal-request-handler.php en la línea 3
+

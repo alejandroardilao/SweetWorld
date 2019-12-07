@@ -1,0 +1,4 @@
+2019-12-07T02:23:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\SweetWorld\wp-includes\template.php en la línea 661
+
+2019-12-07T15:02:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\SweetWorld\wp-includes\widgets\class-wp-widget-recent-posts.php en la línea 17
+
